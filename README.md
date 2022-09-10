@@ -1,4 +1,5 @@
-# W3Schools-CSS-OnlyThis Folder Contains the CSS codes for most of the beginners in css.
+# W3Schools-CSS-Only
+This Folder Contains the CSS codes for most of the beginners in css.
 The templates are taken from the famous website w3schools.com and other sites as well. 
 The folder will be containing the CSS codes embeded in pure css , as no other framework is used. 
 The W3.CSS might not be your choice at this time. 
